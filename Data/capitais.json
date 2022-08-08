@@ -1,0 +1,274 @@
+[
+  {
+    "Capital": "Rio Branco",
+    "Estado": "Acre",
+    "Sigla": "AC",
+    "Região": "Norte",
+    "lat": -9.058024,
+    "lon": -70.809817,
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/61/12/1b/vista-da-ponte-ao-lado.jpg?w=500&h=-1&s=1",
+    "legenda": " City Center"
+  },
+  {
+    "Capital": "Maceió",
+    "Estado": "Alagoas",
+    "Sigla": "AL",
+    "Região": "Nordeste",
+    "lat": -9.65988,
+    "lon": -36.694939,
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/57/a6/ec/caption.jpg?w=300&h=300&s=1",
+    "legenda": "Maragogi - Barra Grande"
+  },
+  {
+    "Capital": "Macapá",
+    "Estado": "Amapá",
+    "Sigla": "AP",
+    "Região": "Norte",
+    "lat": 2.05189,
+    "lon": -50.79137,
+    "img": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/03/o-que-fazer-em-macapa-ponto-turistico.jpg",
+    "legenda": "Fortaleza de São José de Macapá"
+  },
+  {
+    "Capital": "Manaus",
+    "Estado": "Amazonas",
+    "Sigla": "AM",
+    "Região": "Norte",
+    "lat": -3.119028,
+    "lon": -60.021732,
+    "pt": "erfsk",
+    "img": "https://casalnomade.com/wp-content/uploads/2015/02/teatro-amazonas.jpg",
+    "legenda": "Teatro Amazonas"
+  },
+  {
+    "Capital": "Salvador",
+    "Estado": "Bahia",
+    "Sigla": "BA",
+    "Região": "Nordeste",
+    "lat": -12.9642,
+    "lon": -38.5058,
+    "img": "https://www.viajali.com.br/wp-content/uploads/2016/10/salvador-19.jpg",
+    "legenda": "Pelourinho"
+  },
+  {
+    "Capital": "Fortaleza",
+    "Estado": "Ceará",
+    "Sigla": "CE",
+    "Região": "Nordeste",
+    "lat": -3.7185,
+    "lon": -38.5417,
+    "img": "https://www.transportal.com.br/noticias/wp-content/uploads/2018/05/Beach-Park-1.jpg",
+    "legenda": "Beach Park"
+  },
+  {
+    "Capital": "Brasília",
+    "Estado": "Distrito Federal",
+    "Sigla": "DF",
+    "Região": "Centro-Oeste",
+    "lat": -15.826691,
+    "lon": -47.921822,
+    "img": "https://www.viagensecaminhos.com/wp-content/uploads/2016/09/brasilia-aerea-catedral.jpg",
+    "legenda": "Catedral de Brasília"
+  },
+  {
+    "Capital": "Vitória",
+    "Estado": "Espírito Santo",
+    "Sigla": "ES",
+    "Região": "Sudeste",
+    "lat": -20.316839,
+    "lon": -40.309921,
+    "img": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/02/pontos-turisticos-vitoria-es.jpg",
+    "legenda": "Catedral Metropolitana de Vitória"
+  },
+  {
+    "Capital": "Goiânia",
+    "Estado": "Goiás",
+    "Sigla": "GO",
+    "Região": "Centro-Oeste",
+    "lat": -16.680519,
+    "lon": -49.25613,
+    "img": "https://ficaativoeviaja.com.br/wp-content/uploads/2021/05/12910-Praca-Civica-1.jpg",
+    "legenda": "Praça Cívica "
+  },
+  {
+    "Capital": "São Luís",
+    "Estado": "Maranhão",
+    "Sigla": "MA",
+    "Região": "Nordeste",
+    "lat": -2.52945,
+    "lon": -44.296951,
+    "img": "https://www.viagensecaminhos.com/wp-content/uploads/2016/11/centro-historico-sao-luis-rua-portugal.jpg",
+    "legenda": "Rua Portugal"
+  },
+  {
+    "Capital": "Cuiabá",
+    "Estado": "Mato Grosso",
+    "Sigla": "MT",
+    "Região": "Centro-Oeste",
+    "lat": -15.601411,
+    "lon": -56.097893,
+    "img": "https://ficaativoeviaja.com.br/wp-content/uploads/2021/05/12933-Centro-Geodesico-da-America-do-Sul-1-768x1024.jpg",
+    "legenda": "Centro Geodésico da América do Sul "
+  },
+  {
+    "Capital": "Campo Grande",
+    "Estado": "Mato Grosso do Sul",
+    "Sigla": "MS",
+    "Região": "Centro-Oeste",
+    "lat": -20.443529,
+    "lon": -54.647758,
+    "img": "https://destinosnotaveis.com.br/wp-content/uploads/2019/06/lago-parque-nacoes-indigenas-1024x640.jpg",
+    "legenda": "Parque das Nações Indígenas."
+  },
+  {
+    "Capital": "Belo Horizonte",
+    "Estado": "Minas Gerais",
+    "Sigla": "MG",
+    "Região": "Sudeste",
+    "lat": -19.9182,
+    "lon": -43.9371,
+    "img": "https://mercure.accor.com/editorial/imagerie/article/praca-do-papa-belo-horizonte-6373_660x440.jpg",
+    "legenda": "Praça do Papa "
+  },
+  {
+    "Capital": "Belém",
+    "Estado": "Pará",
+    "Sigla": "PA",
+    "Região": "Norte",
+    "lat": -1.455729,
+    "lon": -48.490177,
+    "img": "https://1.bp.blogspot.com/-UC_qfOKKQWw/XpSVSBjYZ8I/AAAAAAAAp2k/QCM46fsoU6w8XX3UVmEjYQMZ7EwYczsVwCLcBGAsYHQ/s1600/teatro-da-paz-belem-do-para.jpg",
+    "legenda": " Theatro da Paz"
+  },
+  {
+    "Capital": "João Pessoa",
+    "Estado": "Paraíba",
+    "Sigla": "PB",
+    "Região": "Nordeste",
+    "lat": -7.119496,
+    "lon": -34.845013,
+    "img": "https://www.transportal.com.br/noticias/wp-content/uploads/2018/06/Convento-de-S%C3%A3o-Francisco-Jo%C3%A3o-pessoa.jpg",
+    "legenda": "Arte Sacra"
+  },
+  {
+    "Capital": "Curitiba",
+    "Estado": "Paraná",
+    "Sigla": "PR",
+    "Região": "Sul",
+    "lat": -25.4284,
+    "lon": -49.2733,
+    "img": "https://www.viajali.com.br/wp-content/uploads/2018/04/pontos-turisticos-de-curitiba-1.jpg",
+    "legenda": "Jardim Botânico"
+  },
+  {
+    "Capital": "Recife",
+    "Estado": "Pernambuco",
+    "Sigla": "PE",
+    "Região": "Nordeste",
+    "lat": -8.813717,
+    "lon": -36.954105,
+    "img": "https://www.buenasdicas.com/wp-content/uploads/2018/12/rua-xv-de-novembro-curitiba.jpg",
+    "legenda": "Rua das Flores"
+  },
+  {
+    "Capital": "Teresina",
+    "Estado": "Piauí",
+    "Sigla": "PI",
+    "Região": "Nordeste",
+    "lat": -5.08793,
+    "lon": -42.80098,
+    "img": " https://turistaprofissional.com/wp-content/uploads/2017/12/ponte-estaiada-teresina-min.jpg",
+    "legenda": " Mirante da ponte Estaiada"
+  },
+  {
+    "Capital": "Rio de Janeiro",
+    "Estado": "Rio de Janeiro",
+    "Sigla": "RJ",
+    "Região": "Sudeste",
+    "lat": -22.9014,
+    "lon": -43.1789,
+    "img": "https://turistaprofissional.com/wp-content/uploads/2017/12/ponte-estaiada-teresina-min.jpg",
+    "legenda": "Mirante da ponte Estaiada"
+  },
+  {
+    "Capital": "Natal",
+    "Estado": "Rio Grande do Norte",
+    "Sigla": "RN",
+    "Região": "Nordeste",
+    "lat": -5.41738,
+    "lon": -36.19577,
+    "img": "https://www.viagenscinematograficas.com.br/wp-content/uploads/2018/03/Natal-RN-O-Que-Fazer-Passeios-11.jpg",
+    "legenda": "Praia de Pipa, Tibau do Sul"
+  },
+  {
+    "Capital": "Porto Alegre",
+    "Estado": "Rio Grande do Sul",
+    "Sigla": "RS",
+    "Região": "Sul",
+    "lat": -30.034647,
+    "lon": -51.217659,
+    "img": "https://www.melhoresdestinos.com.br/wp-content/uploads/2017/10/roteiro-turismo-porto-alegre-dicas-o-que-fazer-16-820x546.jpg",
+    "legenda": "Visitar o Mercado Público de Porto Alegre"
+  },
+  {
+    "Capital": "Porto Velho",
+    "Estado": "Rondônia",
+    "Sigla": "RO",
+    "Região": "Norte",
+    "lat": -8.76107,
+    "lon": -63.885979,
+    "img": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/03/turismo-em-porto-velho.jpg",
+    "legenda": "Estrada de Ferro Madeira Mamoré"
+  },
+  {
+    "Capital": "Boa Vista",
+    "Estado": "Roraima",
+    "Sigla": "RR",
+    "Região": "Norte",
+    "lat": 2.81923,
+    "lon": -60.670658,
+    "img": "https://guiaviajarmelhor.com.br/wp-content/uploads/2016/05/Cachoeira-Yuruani.-Foto-Daniel-DAndrea-760x460-1.jpg",
+    "legenda": "Cachoeira Yuruani. Foto: Daniel Dandrea"
+  },
+  {
+    "Capital": "Florianópolis",
+    "Estado": "Santa Catarina",
+    "Sigla": "SC",
+    "Região": "Sul",
+    "lat": -27.59487,
+    "lon": -48.548222,
+    "img": "https://www.voltologo.net/wp-content/uploads/2018/10/mercado-publico-floripa-ponto-turistico.jpg.webp",
+    "legenda": "Mercado Público de Florianópolis"
+  },
+  {
+    "Capital": "São Paulo",
+    "Estado": "São Paulo",
+    "Sigla": "SP",
+    "Região": "Sudeste",
+    "lat": -23.55052,
+    "lon": -46.633308,
+    "img": "https://www.voltologo.net/wp-content/uploads/2019/01/principais-pontos-turisticos-sp-museus.jpg.webp",
+    "legenda": "MASP"
+  },
+  {
+    "Capital": "Aracajú",
+    "Estado": "Sergipe",
+    "Sigla": "SE",
+    "Região": "Nordeste",
+    "lat": -10.90935,
+    "lon": -37.074402,
+    "img": "https://viagensmerecidas.com.br/wp-content/uploads/2020/07/parque-da-sementeira.jpg",
+    "legenda": "Parque da Sementeira"
+  },
+  {
+    "Capital": "Palmas",
+    "Estado": "Tocantins",
+    "Sigla": "TO",
+    "Região": "Norte",
+    "lat": -10.18451,
+    "lon": -48.33466,
+    "img": "https://gazetadocerrado.com.br/wp-content/uploads/2019/05/Foto-3-Pal%C3%A1cio-Araguaia-foto-aldemar-ribeiro-secom-1-696x418.jpg",
+    "legenda": " Pálacio Araraguaia"
+  }
+
+]
